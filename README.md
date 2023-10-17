@@ -15,10 +15,6 @@ Skills: C / C++ / SQL /
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sparrvio&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sparrvio)  
-
 ![GitHub metrics](https://metrics.lecoq.io/sparrvio)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sparrvio)  
-
-![Profile views](https://gpvc.arturio.dev/sparrvio)  
