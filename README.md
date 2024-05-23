@@ -8,6 +8,12 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
+<br>
+<div id="badges" align="center">
+  <a href="https://leetcode.com/u/sparrvio/">
+    <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="Leetcode Badge"/>
+  </a>
+</div >
 
 ### About me
 - 🌱 I’m currently working on I'm learning Java
