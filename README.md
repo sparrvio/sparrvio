@@ -26,14 +26,28 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="Cpp" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/spring/spring-original-wordmark.svg" title="spring" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original-wordmark.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" width="40" height="40"/>&nbsp;
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" title="Docker" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" title="jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/podman/podman-original-wordmark.svg" title="podman" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/intellij/intellij-original.svg" title="intellij" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" title="Qt" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" title="Qt" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jira/jira-original-wordmark.svg" title="jira" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/confluence/confluence-original-wordmark.svg" title="confluence" width="40" height="40"/>&nbsp;
+
+
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>&nbsp;
+
+
 
 
 
